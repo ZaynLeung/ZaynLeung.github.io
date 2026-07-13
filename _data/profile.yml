@@ -27,38 +27,41 @@ short_bio_text_justify: True
   # https://jimmyqing.github.io/
 short_bio: >
   <p>
-   I am an undergraduate student at Sun Yat-sen University, 
-  graduating in June 2026. My undergraduate major is Electronic Information Science and 
-  Technology. From around May 2025 to the present, 
-  I have been conducting research in the <a href="https://sysu-sail.net/#/"> SAIL </a>laboratory
-  under the guidance of <a href="https://jimmyqing.github.io/">Associate Prof. Gao Qing</a>. 
-  From June to August 2025, I collaborated with a 
-  graduate student to complete a project, which was 
-  transformed into <a href="https://3469627147abc.github.io/DexTele/" target="_blank">a paper and accepted by ICRA2026</a>. 
-  This work mainly built a low-latency, high-precision dual-arm teleoperation system. 
-  The system mainly consists of a retargeting module and a force control module. 
-  I was primarily responsible for the code writing and overall hardware debugging 
-  of the retargeting module. From January to February 2026, under the guidance of 
-  my supervisor, I independently conducted a project to build a human-machine 
-  <a href="https://github.com/ZaynLeung/TransRetargetv1" target="_blank">hand retargeting method</a> based on spatial-temporal feature fusion. 
-  And this work was submitted to IROS2026 and is currently under review. 
-  This work primarily constructed a Transformer-based spatial-temporal encoder network 
-  to extract spatiotemporal features from human hand motion sequences. 
-  These features were then applied to dexterous hand retargeting, 
-  improving the fluency and stability of the retargeting results and 
-  reducing the dependence on input data quality. From March to April, 
-  I began writing my graduation thesis, which is an extension of my work submitted to IROS2026, 
-  incorporating reinforcement learning-based interaction strategies. From April to the present, 
-  I have been assisting a PhD student with an ongoing project on improving <a href="https://github.com/WendyeeWang/MangoBench" target="_blank">offline goal-conditioned reinforcement
-  learning algorithms</a>  for multi-agent systems. My current interests focus on humanoid robot retargeting, human-demonstrated skill transfer, motion control, 
-  and interaction, particularly related to dexterous hands. I am also interested in multi-agent reinforcement learning and building multi-agent systems, 
-  especially in embodied AI area. I look forward to exchanging ideas with everyone.
+  Salut! I am a MSc student at HKUST. I hold a Bachelor's degree from SYSU. I have been conducting research in the <a href="https://sysu-sail.net/#/"> SAIL </a>laboratory
+  under the guidance of <a href="https://www.yulanguo.cn/">Prof. Yulan Guo</a> and <a href="https://jimmyqing.github.io/">Associate Prof. Gao Qing</a>. 
+  My research interests focus on humanoid robot retargeting, human-demonstrated skill transfer, and dexterous manipulation, particularly related to dexterous hands. 
+  I am also interested in multi-agent reinforcement learning and building multi-agent systems, especially in the embodied AI area. I look forward to exchanging ideas with everyone.
   </p>
 
 portrait_url: assets/images/photos/profile.jpg
 # portrait_caption: >-
   # Photo by My Father in Hongkong.
-
+  #  I am an undergraduate student at Sun Yat-sen University, 
+  # graduating in June 2026. My undergraduate major is Electronic Information Science and 
+  # Technology. From around May 2025 to the present, 
+  # I have been conducting research in the <a href="https://sysu-sail.net/#/"> SAIL </a>laboratory
+  # under the guidance of <a href="https://jimmyqing.github.io/">Associate Prof. Gao Qing</a>. 
+  # From June to August 2025, I collaborated with a 
+  # graduate student to complete a project, which was 
+  # transformed into <a href="https://3469627147abc.github.io/DexTele/" target="_blank">a paper and accepted by ICRA2026</a>. 
+  # This work mainly built a low-latency, high-precision dual-arm teleoperation system. 
+  # The system mainly consists of a retargeting module and a force control module. 
+  # I was primarily responsible for the code writing and overall hardware debugging 
+  # of the retargeting module. From January to February 2026, under the guidance of 
+  # my supervisor, I independently conducted a project to build a human-machine 
+  # <a href="https://github.com/ZaynLeung/TransRetargetv1" target="_blank">hand retargeting method</a> based on spatial-temporal feature fusion. 
+  # And this work was submitted to IROS2026 and is currently under review. 
+  # This work primarily constructed a Transformer-based spatial-temporal encoder network 
+  # to extract spatiotemporal features from human hand motion sequences. 
+  # These features were then applied to dexterous hand retargeting, 
+  # improving the fluency and stability of the retargeting results and 
+  # reducing the dependence on input data quality. From March to April, 
+  # I began writing my graduation thesis, which is an extension of my work submitted to IROS2026, 
+  # incorporating reinforcement learning-based interaction strategies. From April to the present, 
+  # I have been assisting a PhD student with an ongoing project on improving <a href="https://github.com/WendyeeWang/MangoBench" target="_blank">offline goal-conditioned reinforcement
+  # learning algorithms</a>  for multi-agent systems. My current interests focus on humanoid robot retargeting, human-demonstrated skill transfer, motion control, 
+  # and interaction, particularly related to dexterous hands. I am also interested in multi-agent reinforcement learning and building multi-agent systems, 
+  # especially in embodied AI area. I look forward to exchanging ideas with everyone.
 education:
 # - name: Sun Yat-sen University
 #   logo: /assets/images/badges/sysu.jpg
